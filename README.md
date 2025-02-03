@@ -23,5 +23,5 @@ not divisible by 5.
 ![image_alt](https://github.com/ZakariaHossainCSE/Artificial-Intelligence-Lab/blob/03fdb5caccbc21c6d158f8a85098435dad0a7ae2/Largest_Number.JPG)
 
 • Write a python program to find the sum of the numbers passed as parameters.
-![image_alt](image_url)
+![image_alt](https://github.com/ZakariaHossainCSE/Artificial-Intelligence-Lab/blob/3abe57ba7143adfbff6a741513c2ff6c28e42828/Number_parameters.JPG)
 
