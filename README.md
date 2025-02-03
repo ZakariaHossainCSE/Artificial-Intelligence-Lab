@@ -8,6 +8,7 @@
 
 • Write a python program to find the sum of all numbers between 50 and 100, which are divisible by 3 and
 not divisible by 5.
+
 ![image_alt](https://github.com/ZakariaHossainCSE/Artificial-Intelligence-Lab/blob/b5f84d4105401a4bf16c9d1b631cde26d3789efc/sum_Between_50_to_100.JPG)
 
 • Write a python program to find the second highest number from a set of numbers.
