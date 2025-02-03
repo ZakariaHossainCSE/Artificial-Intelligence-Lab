@@ -4,7 +4,7 @@
 ![image_alt](https://github.com/ZakariaHossainCSE/Artificial-Intelligence-Lab/blob/97602b1b02c5b2e61fd7558ec4acaec2b942ff6e/Even_Odd.png)
 
 • Write a python program to find the smallest number from a set of numbers.
-![image_alt](image_url)
+![image_alt](https://github.com/ZakariaHossainCSE/Artificial-Intelligence-Lab/blob/e8dde1fc5546037c81f47d7b9e6bfa0fc3271e48/Smallest_number.png)
 
 • Write a python program to find the sum of all numbers between 50 and 100, which are divisible by 3 and
 not divisible by 5.
