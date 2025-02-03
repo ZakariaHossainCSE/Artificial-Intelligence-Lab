@@ -1,7 +1,7 @@
 #Here is the screenshot of the output of LabPerformance01-PythonIntro:
 
 • Write a python program to find the sum of odd and even numbers from a set of numbers.
-![image_alt](image_url)
+![image_alt](https://github.com/ZakariaHossainCSE/Artificial-Intelligence-Lab/blob/97602b1b02c5b2e61fd7558ec4acaec2b942ff6e/Even_Odd.png)
 
 • Write a python program to find the smallest number from a set of numbers.
 ![image_alt](image_url)
