@@ -14,7 +14,7 @@ not divisible by 5.
 ![image_alt](https://github.com/ZakariaHossainCSE/Artificial-Intelligence-Lab/blob/1f7b975d351c04e0d7fea5c16691bf4664dc88d1/second_highest_num.JPG)
 
 • Write a python program to find the factorial of a number using for loop.
-![image_alt](image_url)
+![image_alt](https://github.com/ZakariaHossainCSE/Artificial-Intelligence-Lab/blob/c589d9b2bf3e453609d9de9b7a6e00b13ec5ad5c/factorial_num.JPG)
 
 • Write a python program to generate Fibonacci series.
 ![image_alt](image_url)
