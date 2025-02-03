@@ -1,1 +1,1 @@
-#Here is the screenshot of the output of LabPerformance01-PythonIntro.
+#Here is the screenshot of the output of LabPerformance01-PythonIntro:
