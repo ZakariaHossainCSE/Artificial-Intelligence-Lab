@@ -17,7 +17,7 @@ not divisible by 5.
 ![image_alt](https://github.com/ZakariaHossainCSE/Artificial-Intelligence-Lab/blob/c589d9b2bf3e453609d9de9b7a6e00b13ec5ad5c/factorial_num.JPG)
 
 • Write a python program to generate Fibonacci series.
-![image_alt](image_url)
+![image_alt](https://github.com/ZakariaHossainCSE/Artificial-Intelligence-Lab/blob/cc8dd22cacd96338592d413695cc6dedf04d0012/fibonacci.JPG)
 
 • Write a python program to find the largest number between two numbers using function.
 ![image_alt](image_url)
