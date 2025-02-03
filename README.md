@@ -11,7 +11,7 @@ not divisible by 5.
 ![image_alt](https://github.com/ZakariaHossainCSE/Artificial-Intelligence-Lab/blob/b5f84d4105401a4bf16c9d1b631cde26d3789efc/sum_Between_50_to_100.JPG)
 
 • Write a python program to find the second highest number from a set of numbers.
-![image_alt](image_url)
+![image_alt](https://github.com/ZakariaHossainCSE/Artificial-Intelligence-Lab/blob/1f7b975d351c04e0d7fea5c16691bf4664dc88d1/second_highest_num.JPG)
 
 • Write a python program to find the factorial of a number using for loop.
 ![image_alt](image_url)
