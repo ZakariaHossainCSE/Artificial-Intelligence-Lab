@@ -41,7 +41,7 @@ not divisible by 5.
 
 
 2.Set: Find the common elements between two lists using sets.
-![image_alt]()
+![image_alt](https://github.com/ZakariaHossainCSE/Artificial-Intelligence-Lab/blob/92d36482fe26798d682654144b00ec089ad47968/LabPerformance02-all-screenshot/Common_numbers.JPG)
 
 3.Tuple: Create a tuple of student records (name, age, grade) and sort by grade.
 ![image_alt]()
