@@ -20,6 +20,17 @@ not divisible by 5.
 • Write a python program to generate Fibonacci series.
 ![image_alt](https://github.com/ZakariaHossainCSE/Artificial-Intelligence-Lab/blob/cc8dd22cacd96338592d413695cc6dedf04d0012/fibonacci.JPG)
 
+
+
+
+
+
+#Here is the screenshot of the output of LabPerformance02-PythonTools.
+
+
+
+
+
 • Write a python program to find the largest number between two numbers using function.
 ![image_alt](https://github.com/ZakariaHossainCSE/Artificial-Intelligence-Lab/blob/03fdb5caccbc21c6d158f8a85098435dad0a7ae2/Largest_Number.JPG)
 
