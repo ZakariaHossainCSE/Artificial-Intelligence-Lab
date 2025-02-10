@@ -53,7 +53,7 @@ not divisible by 5.
 ![image_alt](https://github.com/ZakariaHossainCSE/Artificial-Intelligence-Lab/blob/9db3db23ea5ce111d9b12b0d4d4788b8c2bef127/LabPerformance02-all-screenshot/Matrix_random.JPG)
 
 6.NumPy#2: Create an array of 100 random values and normalize them between 0 and 1.
-![image_alt]()
+![image_alt](https://github.com/ZakariaHossainCSE/Artificial-Intelligence-Lab/blob/f72e1ddb9f99966604eb28980580bedff9f1f85e/LabPerformance02-all-screenshot/100_random_values.JPG)
 
 7.Pandas#1: Load a CSV file of sales data and compute total revenue per product.
 ![image_alt]()
