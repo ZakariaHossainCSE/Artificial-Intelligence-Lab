@@ -44,7 +44,7 @@ not divisible by 5.
 ![image_alt](https://github.com/ZakariaHossainCSE/Artificial-Intelligence-Lab/blob/92d36482fe26798d682654144b00ec089ad47968/LabPerformance02-all-screenshot/Common_numbers.JPG)
 
 3.Tuple: Create a tuple of student records (name, age, grade) and sort by grade.
-![image_alt]()
+![image_alt](https://github.com/ZakariaHossainCSE/Artificial-Intelligence-Lab/blob/37e72dc715713ba6e942178700f9d7cb97d6a99f/LabPerformance02-all-screenshot/Student_records.JPG)
 
 4.Dictionary: Count word occurrences in a given text and store them in a dictionary.
 ![image_alt]()
