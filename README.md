@@ -36,27 +36,34 @@ not divisible by 5.
 
 #Here is the screenshot of the output of LabPerformance02-PythonTools.
 
-List: Given a list of numbers, remove duplicates and sort in ascending order.
+1.List: Given a list of numbers, remove duplicates and sort in ascending order.
 ![image_alt](https://github.com/ZakariaHossainCSE/Artificial-Intelligence-Lab/blob/04a7feb1716b72d79df229a4619dcbe139cc098f/LabPerformance02-all-screenshot/List_remove-duplicate.JPG)
 
 
-Set: Find the common elements between two lists using sets.
+2.Set: Find the common elements between two lists using sets.
+![image_alt]()
 
-Tuple: Create a tuple of student records (name, age, grade) and sort by grade.
+3.Tuple: Create a tuple of student records (name, age, grade) and sort by grade.
+![image_alt]()
 
-Dictionary: Count word occurrences in a given text and store them in a dictionary.
+4.Dictionary: Count word occurrences in a given text and store them in a dictionary.
+![image_alt]()
 
-NumPy#1: Generate a 5x5 matrix of random integers and compute row-wise sums.
+5.NumPy#1: Generate a 5x5 matrix of random integers and compute row-wise sums.
+![image_alt]()
 
+6.NumPy#2: Create an array of 100 random values and normalize them between 0 and 1.
+![image_alt]()
 
-NumPy#2: Create an array of 100 random values and normalize them between 0 and 1.
+7.Pandas#1: Load a CSV file of sales data and compute total revenue per product.
+![image_alt]()
 
-Pandas#1: Load a CSV file of sales data and compute total revenue per product.
+8.Pandas#2: Fill missing values in a dataset with column-wise means.
+![image_alt]()
 
-Pandas#2: Fill missing values in a dataset with column-wise means.
+9.Matplotlib#1: Plot a line graph showing temperature variations over a week.
+![image_alt]()
 
-Matplotlib#1: Plot a line graph showing temperature variations over a week.
-
-Matplotlib#2: Create a bar chart comparing sales revenue across different regions.
-
+10.Matplotlib#2: Create a bar chart comparing sales revenue across different regions.
+![image_alt]()
 
