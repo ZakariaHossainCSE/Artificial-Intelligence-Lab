@@ -47,7 +47,7 @@ not divisible by 5.
 ![image_alt](https://github.com/ZakariaHossainCSE/Artificial-Intelligence-Lab/blob/37e72dc715713ba6e942178700f9d7cb97d6a99f/LabPerformance02-all-screenshot/Student_records.JPG)
 
 4.Dictionary: Count word occurrences in a given text and store them in a dictionary.
-![image_alt]()
+![image_alt](https://github.com/ZakariaHossainCSE/Artificial-Intelligence-Lab/blob/9e974812b852a0c3669816ad469574769866a4f7/LabPerformance02-all-screenshot/Count_word.JPG)
 
 5.NumPy#1: Generate a 5x5 matrix of random integers and compute row-wise sums.
 ![image_alt]()
