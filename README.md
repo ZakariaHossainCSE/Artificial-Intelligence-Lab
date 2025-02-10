@@ -37,7 +37,7 @@ not divisible by 5.
 #Here is the screenshot of the output of LabPerformance02-PythonTools.
 
 List: Given a list of numbers, remove duplicates and sort in ascending order.
-![image_alt]()
+![image_alt](https://github.com/ZakariaHossainCSE/Artificial-Intelligence-Lab/blob/04a7feb1716b72d79df229a4619dcbe139cc098f/LabPerformance02-all-screenshot/List_remove-duplicate.JPG)
 
 
 Set: Find the common elements between two lists using sets.
