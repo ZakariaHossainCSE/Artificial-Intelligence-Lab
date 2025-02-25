@@ -67,3 +67,6 @@ not divisible by 5.
 10.Matplotlib#2: Create a bar chart comparing sales revenue across different regions.
 ![image_alt]()
 
+
+
+#Here is the screenshot of the output of LabReport01-GraphTraversal.
