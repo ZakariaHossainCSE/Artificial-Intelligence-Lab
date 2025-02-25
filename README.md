@@ -76,6 +76,6 @@ not divisible by 5.
 
 Write a program that generates a random N×N grid (N between 4 and 7) with non-obstacle source and goal states. It  performs DFS to find a path from source to goal and prints the grid, source, goal, DFS path, and topological order of node traversal.
 
-![image_alt]([https://github.com/ZakariaHossainCSE/Artificial-Intelligence-Lab/blob/9db3db23ea5ce111d9b12b0d4d4788b8c2bef127/LabPerformance02-all-screenshot/Matrix_random.JPG](https://github.com/ZakariaHossainCSE/Artificial-Intelligence-Lab/blob/1a455370ced860fd0b6fc81a11d1d9bde5ebb2b2/LabReport01-GraphTraversal/LabReport01-GraphTraversal-Screenshot/AI%20report1.png))
+![image_alt]((https://github.com/ZakariaHossainCSE/Artificial-Intelligence-Lab/blob/1a455370ced860fd0b6fc81a11d1d9bde5ebb2b2/LabReport01-GraphTraversal/LabReport01-GraphTraversal-Screenshot/AI%20report1.png))
 
 
