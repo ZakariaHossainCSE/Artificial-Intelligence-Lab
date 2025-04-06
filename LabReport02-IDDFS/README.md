@@ -6,6 +6,6 @@ Case#1Output:
 
 ![image_alt](https://github.com/ZakariaHossainCSE/Artificial-Intelligence-Lab/blob/698af05445669210eb827fa50872628c706faaf8/LabReport02-IDDFS/AI%20report2.JPG)
 
-Case#1Output:
+Case#2Output:
 
-![image_alt]()
+![image_alt](https://github.com/ZakariaHossainCSE/Artificial-Intelligence-Lab/blob/2792ef9fa46a526bbd614cec6b351adc792f49d8/LabReport02-IDDFS/AI%20report%202.2.JPG)
