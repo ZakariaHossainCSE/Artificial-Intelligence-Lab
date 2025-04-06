@@ -7,5 +7,5 @@ Case#1Input:
 
 
 Case#2Input:
-![image_alt]()
+![image_alt](https://github.com/ZakariaHossainCSE/Artificial-Intelligence-Lab/blob/402b561b410e1b571ddac3ab1c919f3a70bf7826/LabReport03-GraphColoring/AI%20report3.2.JPG)
 
