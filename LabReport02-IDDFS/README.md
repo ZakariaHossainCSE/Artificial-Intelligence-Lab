@@ -8,4 +8,4 @@ Case#1Output:
 
 Case#1Output:
 
-![image_alt](https://github.com/ZakariaHossainCSE/Artificial-Intelligence-Lab/blob/698af05445669210eb827fa50872628c706faaf8/LabReport02-IDDFS/AI%20report2.JPG)
+![image_alt]()
