@@ -4,7 +4,7 @@ Write a lab report on the implementation of a modified K-Means clustering algori
 
 ![image_alt](https://github.com/ZakariaHossainCSE/Artificial-Intelligence-Lab/blob/0e5050b5a6771b6ce06c4d2a3f32d533c2b2723c/LabReport04-kMeansClustering/LabReport04-kMeansClustering1.JPG)
 
-![image_alt](https://github.com/ZakariaHossainCSE/Artificial-Intelligence-Lab/blob/97602b1b02c5b2e61fd7558ec4acaec2b942ff6e/Even_Odd.png)
+![image_alt](https://github.com/ZakariaHossainCSE/Artificial-Intelligence-Lab/blob/f4387ce593f786159f770a945c465f771983e9be/LabReport04-kMeansClustering/LabReport04-kMeansClustering2.JPG)
 
 ![image_alt](https://github.com/ZakariaHossainCSE/Artificial-Intelligence-Lab/blob/97602b1b02c5b2e61fd7558ec4acaec2b942ff6e/Even_Odd.png)
 
